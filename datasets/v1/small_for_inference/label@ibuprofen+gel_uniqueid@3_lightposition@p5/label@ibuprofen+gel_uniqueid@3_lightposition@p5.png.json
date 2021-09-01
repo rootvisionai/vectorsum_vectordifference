@@ -1,0 +1,40 @@
+{
+    "v2#1.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__wprint@1.png": {
+        "outlier": false,
+        "number_of_imprints": 5,
+        "details": [
+            {
+                "type": "wprint",
+                "area": 314,
+                "confidence": 0.9715453386306763
+            },
+            {
+                "type": "wprint",
+                "area": 265,
+                "confidence": 0.9679986834526062
+            },
+            {
+                "type": "wprint",
+                "area": 221,
+                "confidence": 0.9575545787811279
+            },
+            {
+                "type": "wprint",
+                "area": 485,
+                "confidence": 0.9042351841926575
+            },
+            {
+                "type": "wprint",
+                "area": 197,
+                "confidence": 0.8989853858947754
+            }
+        ],
+        "priority": 1
+    }
+}

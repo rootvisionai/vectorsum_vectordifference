@@ -1,0 +1,26 @@
+{
+    "v2#1.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#2.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@outlayer.png": {
+        "outlier": true,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 672,
+                "confidence": 0.7233719825744629
+            }
+        ],
+        "priority": 0
+    }
+}

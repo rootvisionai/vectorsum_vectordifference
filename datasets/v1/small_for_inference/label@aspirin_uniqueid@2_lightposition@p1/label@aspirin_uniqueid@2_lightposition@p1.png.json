@@ -1,0 +1,99 @@
+{
+    "v2#0.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#1.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#4.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#5.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#6.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#7.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#9.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#2__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 391,
+                "confidence": 0.8297212719917297
+            },
+            {
+                "type": "eng",
+                "area": 367,
+                "confidence": 0.8014188408851624
+            },
+            {
+                "type": "eng",
+                "area": 512,
+                "confidence": 0.7707352638244629
+            },
+            {
+                "type": "eng",
+                "area": 168,
+                "confidence": 0.7119911909103394
+            }
+        ],
+        "priority": 2
+    },
+    "v2#3__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 432,
+                "confidence": 0.9382768869400024
+            },
+            {
+                "type": "eng",
+                "area": 156,
+                "confidence": 0.8861081600189209
+            },
+            {
+                "type": "eng",
+                "area": 488,
+                "confidence": 0.7877384424209595
+            }
+        ],
+        "priority": 1
+    }
+}

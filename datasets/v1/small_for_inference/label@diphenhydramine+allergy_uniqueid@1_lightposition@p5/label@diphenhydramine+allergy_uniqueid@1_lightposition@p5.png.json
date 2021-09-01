@@ -1,0 +1,175 @@
+{
+    "v2#0.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#1.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#2.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#7.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#9.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#10.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#11.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#12.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#3__bprint@3.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "bprint",
+                "area": 332,
+                "confidence": 0.9117870926856995
+            },
+            {
+                "type": "bprint",
+                "area": 349,
+                "confidence": 0.8177669644355774
+            },
+            {
+                "type": "bprint",
+                "area": 335,
+                "confidence": 0.6877782940864563
+            },
+            {
+                "type": "bprint",
+                "area": 122,
+                "confidence": 0.5537774562835693
+            }
+        ],
+        "priority": 3
+    },
+    "v2#4__bprint@1.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "bprint",
+                "area": 101,
+                "confidence": 0.9761860966682434
+            },
+            {
+                "type": "bprint",
+                "area": 149,
+                "confidence": 0.9140325784683228
+            }
+        ],
+        "priority": 1
+    },
+    "v2#5__bprint@outlayer.png": {
+        "outlier": true,
+        "number_of_imprints": 7,
+        "details": [
+            {
+                "type": "bprint",
+                "area": 245,
+                "confidence": 0.9569788575172424
+            },
+            {
+                "type": "eng",
+                "area": 228,
+                "confidence": 0.8422508835792542
+            },
+            {
+                "type": "bprint",
+                "area": 163,
+                "confidence": 0.8230707049369812
+            },
+            {
+                "type": "bprint",
+                "area": 53,
+                "confidence": 0.7766948938369751
+            },
+            {
+                "type": "bprint",
+                "area": 84,
+                "confidence": 0.7688236832618713
+            },
+            {
+                "type": "bprint",
+                "area": 27,
+                "confidence": 0.6525676250457764
+            },
+            {
+                "type": "bprint",
+                "area": 12,
+                "confidence": 0.5075609683990479
+            }
+        ],
+        "priority": 0
+    },
+    "v2#6__bprint@1.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "bprint",
+                "area": 405,
+                "confidence": 0.7840039730072021
+            },
+            {
+                "type": "bprint",
+                "area": 151,
+                "confidence": 0.6331479549407959
+            }
+        ],
+        "priority": 1
+    },
+    "v2#8__bprint@2.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "bprint",
+                "area": 211,
+                "confidence": 0.8993029594421387
+            },
+            {
+                "type": "bprint",
+                "area": 213,
+                "confidence": 0.8448139429092407
+            },
+            {
+                "type": "bprint",
+                "area": 172,
+                "confidence": 0.8082137107849121
+            }
+        ],
+        "priority": 2
+    }
+}

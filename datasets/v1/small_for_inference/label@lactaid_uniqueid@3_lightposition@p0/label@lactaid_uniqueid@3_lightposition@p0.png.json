@@ -1,0 +1,88 @@
+{
+    "v2#1.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#4.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#5.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#6.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#7.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 489,
+                "confidence": 0.8500655293464661
+            },
+            {
+                "type": "eng",
+                "area": 174,
+                "confidence": 0.772101640701294
+            }
+        ],
+        "priority": 1
+    },
+    "v2#2__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 256,
+                "confidence": 0.7741595506668091
+            },
+            {
+                "type": "eng",
+                "area": 464,
+                "confidence": 0.7696248888969421
+            },
+            {
+                "type": "eng",
+                "area": 315,
+                "confidence": 0.7231238484382629
+            },
+            {
+                "type": "eng",
+                "area": 338,
+                "confidence": 0.7177661657333374
+            }
+        ],
+        "priority": 2
+    }
+}

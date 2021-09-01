@@ -1,0 +1,93 @@
+{
+    "v2#2.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 1659,
+                "confidence": 0.86424320936203
+            }
+        ],
+        "priority": 1
+    },
+    "v2#1__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 765,
+                "confidence": 0.8553728461265564
+            },
+            {
+                "type": "eng",
+                "area": 348,
+                "confidence": 0.7491079568862915
+            },
+            {
+                "type": "eng",
+                "area": 347,
+                "confidence": 0.7427530288696289
+            }
+        ],
+        "priority": 3
+    },
+    "v2#3__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 466,
+                "confidence": 0.8489149212837219
+            },
+            {
+                "type": "eng",
+                "area": 1600,
+                "confidence": 0.7259641289710999
+            }
+        ],
+        "priority": 2
+    },
+    "v2#4__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 713,
+                "confidence": 0.9723821878433228
+            },
+            {
+                "type": "eng",
+                "area": 670,
+                "confidence": 0.9240211844444275
+            }
+        ],
+        "priority": 2
+    },
+    "v2#5__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 713,
+                "confidence": 0.9723821878433228
+            },
+            {
+                "type": "eng",
+                "area": 670,
+                "confidence": 0.9240211844444275
+            }
+        ],
+        "priority": 2
+    }
+}

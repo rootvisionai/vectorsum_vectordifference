@@ -1,0 +1,19 @@
+{
+    "v2#0__wprint@1.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "wprint",
+                "area": 1185,
+                "confidence": 0.7663527727127075
+            },
+            {
+                "type": "wprint",
+                "area": 1241,
+                "confidence": 0.6395404934883118
+            }
+        ],
+        "priority": 1
+    }
+}

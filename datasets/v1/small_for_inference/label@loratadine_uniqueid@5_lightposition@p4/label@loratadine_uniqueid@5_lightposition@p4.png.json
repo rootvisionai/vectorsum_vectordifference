@@ -1,0 +1,246 @@
+{
+    "v2#2.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#5.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#12.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#13.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#14.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#15.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#18.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 289,
+                "confidence": 0.965164303779602
+            },
+            {
+                "type": "eng",
+                "area": 154,
+                "confidence": 0.9643105864524841
+            }
+        ],
+        "priority": 2
+    },
+    "v2#1__eng@4.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 132,
+                "confidence": 0.9083195328712463
+            },
+            {
+                "type": "eng",
+                "area": 244,
+                "confidence": 0.8273454904556274
+            },
+            {
+                "type": "eng",
+                "area": 122,
+                "confidence": 0.8121947646141052
+            },
+            {
+                "type": "eng",
+                "area": 75,
+                "confidence": 0.7299700975418091
+            }
+        ],
+        "priority": 4
+    },
+    "v2#4__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 222,
+                "confidence": 0.9857996702194214
+            },
+            {
+                "type": "eng",
+                "area": 285,
+                "confidence": 0.9727440476417542
+            },
+            {
+                "type": "eng",
+                "area": 130,
+                "confidence": 0.8942239880561829
+            }
+        ],
+        "priority": 3
+    },
+    "v2#6__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 154,
+                "confidence": 0.8758319616317749
+            },
+            {
+                "type": "eng",
+                "area": 106,
+                "confidence": 0.7727928757667542
+            }
+        ],
+        "priority": 2
+    },
+    "v2#7__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 320,
+                "confidence": 0.9350820779800415
+            },
+            {
+                "type": "eng",
+                "area": 159,
+                "confidence": 0.7141979932785034
+            }
+        ],
+        "priority": 2
+    },
+    "v2#9__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 92,
+                "confidence": 0.8863535523414612
+            }
+        ],
+        "priority": 1
+    },
+    "v2#10__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 293,
+                "confidence": 0.9585151076316833
+            },
+            {
+                "type": "eng",
+                "area": 250,
+                "confidence": 0.9373924732208252
+            },
+            {
+                "type": "eng",
+                "area": 273,
+                "confidence": 0.7689363956451416
+            }
+        ],
+        "priority": 3
+    },
+    "v2#11__eng@4.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 332,
+                "confidence": 0.9573142528533936
+            },
+            {
+                "type": "eng",
+                "area": 295,
+                "confidence": 0.9541136026382446
+            },
+            {
+                "type": "eng",
+                "area": 104,
+                "confidence": 0.9200340509414673
+            },
+            {
+                "type": "eng",
+                "area": 207,
+                "confidence": 0.7664059400558472
+            }
+        ],
+        "priority": 4
+    },
+    "v2#16__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 430,
+                "confidence": 0.9326706528663635
+            },
+            {
+                "type": "eng",
+                "area": 234,
+                "confidence": 0.8310747742652893
+            }
+        ],
+        "priority": 2
+    },
+    "v2#17__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 171,
+                "confidence": 0.7341672778129578
+            }
+        ],
+        "priority": 1
+    }
+}

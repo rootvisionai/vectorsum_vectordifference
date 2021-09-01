@@ -1,0 +1,169 @@
+{
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#5.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#7.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#10.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#11.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#12.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#13.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#14.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#15.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 132,
+                "confidence": 0.9392063617706299
+            },
+            {
+                "type": "eng",
+                "area": 354,
+                "confidence": 0.919419527053833
+            },
+            {
+                "type": "eng",
+                "area": 145,
+                "confidence": 0.850456178188324
+            }
+        ],
+        "priority": 3
+    },
+    "v2#1__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 406,
+                "confidence": 0.9657375812530518
+            },
+            {
+                "type": "eng",
+                "area": 197,
+                "confidence": 0.7440105676651001
+            }
+        ],
+        "priority": 2
+    },
+    "v2#2__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 489,
+                "confidence": 0.959589421749115
+            },
+            {
+                "type": "eng",
+                "area": 275,
+                "confidence": 0.9529895782470703
+            },
+            {
+                "type": "eng",
+                "area": 165,
+                "confidence": 0.9062042832374573
+            }
+        ],
+        "priority": 3
+    },
+    "v2#4__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 427,
+                "confidence": 0.7369034886360168
+            }
+        ],
+        "priority": 1
+    },
+    "v2#6__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 441,
+                "confidence": 0.9633131623268127
+            },
+            {
+                "type": "eng",
+                "area": 123,
+                "confidence": 0.9370699524879456
+            }
+        ],
+        "priority": 2
+    },
+    "v2#9__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 172,
+                "confidence": 0.8923524022102356
+            },
+            {
+                "type": "eng",
+                "area": 235,
+                "confidence": 0.8620980381965637
+            }
+        ],
+        "priority": 2
+    }
+}

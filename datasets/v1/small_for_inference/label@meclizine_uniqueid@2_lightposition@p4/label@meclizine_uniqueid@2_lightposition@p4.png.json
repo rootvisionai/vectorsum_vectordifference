@@ -1,0 +1,165 @@
+{
+    "v2#0.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#2.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#4.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#1__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 6,
+        "details": [
+            {
+                "type": "eng",
+                "area": 667,
+                "confidence": 0.953740656375885
+            },
+            {
+                "type": "eng",
+                "area": 158,
+                "confidence": 0.949066698551178
+            },
+            {
+                "type": "eng",
+                "area": 191,
+                "confidence": 0.9449042677879333
+            },
+            {
+                "type": "eng",
+                "area": 210,
+                "confidence": 0.9443503022193909
+            },
+            {
+                "type": "eng",
+                "area": 170,
+                "confidence": 0.9214082956314087
+            },
+            {
+                "type": "eng",
+                "area": 200,
+                "confidence": 0.8131818175315857
+            }
+        ],
+        "priority": 2
+    },
+    "v2#5__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 5,
+        "details": [
+            {
+                "type": "eng",
+                "area": 776,
+                "confidence": 0.9679503440856934
+            },
+            {
+                "type": "eng",
+                "area": 703,
+                "confidence": 0.9629470109939575
+            },
+            {
+                "type": "eng",
+                "area": 163,
+                "confidence": 0.9594738483428955
+            },
+            {
+                "type": "eng",
+                "area": 174,
+                "confidence": 0.953197181224823
+            },
+            {
+                "type": "eng",
+                "area": 289,
+                "confidence": 0.929524302482605
+            }
+        ],
+        "priority": 1
+    },
+    "v2#6__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 5,
+        "details": [
+            {
+                "type": "eng",
+                "area": 256,
+                "confidence": 0.9355483055114746
+            },
+            {
+                "type": "eng",
+                "area": 662,
+                "confidence": 0.9242370128631592
+            },
+            {
+                "type": "eng",
+                "area": 250,
+                "confidence": 0.9057415723800659
+            },
+            {
+                "type": "eng",
+                "area": 749,
+                "confidence": 0.8557563424110413
+            },
+            {
+                "type": "eng",
+                "area": 176,
+                "confidence": 0.7584721446037292
+            }
+        ],
+        "priority": 1
+    },
+    "v2#7__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 5,
+        "details": [
+            {
+                "type": "eng",
+                "area": 602,
+                "confidence": 0.978692352771759
+            },
+            {
+                "type": "eng",
+                "area": 146,
+                "confidence": 0.9592684507369995
+            },
+            {
+                "type": "eng",
+                "area": 197,
+                "confidence": 0.9484578371047974
+            },
+            {
+                "type": "eng",
+                "area": 318,
+                "confidence": 0.8895552158355713
+            },
+            {
+                "type": "eng",
+                "area": 166,
+                "confidence": 0.7751504182815552
+            }
+        ],
+        "priority": 1
+    }
+}

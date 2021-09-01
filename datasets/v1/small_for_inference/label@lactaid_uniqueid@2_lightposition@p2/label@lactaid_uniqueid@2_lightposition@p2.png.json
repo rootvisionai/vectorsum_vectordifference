@@ -1,0 +1,109 @@
+{
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#4.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#5.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#6.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#7.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#8.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 518,
+                "confidence": 0.7237173914909363
+            }
+        ],
+        "priority": 1
+    },
+    "v2#1__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 5,
+        "details": [
+            {
+                "type": "eng",
+                "area": 297,
+                "confidence": 0.8659335374832153
+            },
+            {
+                "type": "eng",
+                "area": 232,
+                "confidence": 0.8106663823127747
+            },
+            {
+                "type": "eng",
+                "area": 316,
+                "confidence": 0.80649733543396
+            },
+            {
+                "type": "eng",
+                "area": 568,
+                "confidence": 0.7983649373054504
+            },
+            {
+                "type": "eng",
+                "area": 207,
+                "confidence": 0.7867066860198975
+            }
+        ],
+        "priority": 3
+    },
+    "v2#2__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 373,
+                "confidence": 0.8441658020019531
+            },
+            {
+                "type": "eng",
+                "area": 86,
+                "confidence": 0.8111412525177002
+            },
+            {
+                "type": "eng",
+                "area": 129,
+                "confidence": 0.7294254899024963
+            },
+            {
+                "type": "eng",
+                "area": 482,
+                "confidence": 0.7150768041610718
+            }
+        ],
+        "priority": 2
+    }
+}

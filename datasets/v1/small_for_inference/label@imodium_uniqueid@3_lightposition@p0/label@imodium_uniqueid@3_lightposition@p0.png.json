@@ -1,0 +1,183 @@
+{
+    "v2#3.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#6.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#11.png": {
+        "outlier": false,
+        "number_of_imprints": 0,
+        "details": null,
+        "priority": 0
+    },
+    "v2#0__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 562,
+                "confidence": 0.9696502089500427
+            },
+            {
+                "type": "eng",
+                "area": 299,
+                "confidence": 0.8075700998306274
+            },
+            {
+                "type": "eng",
+                "area": 73,
+                "confidence": 0.7515497207641602
+            }
+        ],
+        "priority": 3
+    },
+    "v2#1__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 579,
+                "confidence": 0.9826589822769165
+            },
+            {
+                "type": "eng",
+                "area": 225,
+                "confidence": 0.8194729089736938
+            }
+        ],
+        "priority": 2
+    },
+    "v2#2__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 331,
+                "confidence": 0.789203405380249
+            }
+        ],
+        "priority": 1
+    },
+    "v2#4__eng@4.png": {
+        "outlier": false,
+        "number_of_imprints": 4,
+        "details": [
+            {
+                "type": "eng",
+                "area": 535,
+                "confidence": 0.9160363078117371
+            },
+            {
+                "type": "eng",
+                "area": 258,
+                "confidence": 0.8466459512710571
+            },
+            {
+                "type": "eng",
+                "area": 530,
+                "confidence": 0.7753034830093384
+            },
+            {
+                "type": "eng",
+                "area": 265,
+                "confidence": 0.7592460513114929
+            }
+        ],
+        "priority": 4
+    },
+    "v2#5__eng@1.png": {
+        "outlier": false,
+        "number_of_imprints": 1,
+        "details": [
+            {
+                "type": "eng",
+                "area": 384,
+                "confidence": 0.9238743185997009
+            }
+        ],
+        "priority": 1
+    },
+    "v2#7__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 530,
+                "confidence": 0.9362274408340454
+            },
+            {
+                "type": "eng",
+                "area": 505,
+                "confidence": 0.8729709982872009
+            }
+        ],
+        "priority": 2
+    },
+    "v2#8__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 520,
+                "confidence": 0.9481039047241211
+            },
+            {
+                "type": "eng",
+                "area": 243,
+                "confidence": 0.8841848969459534
+            }
+        ],
+        "priority": 2
+    },
+    "v2#9__eng@2.png": {
+        "outlier": false,
+        "number_of_imprints": 2,
+        "details": [
+            {
+                "type": "eng",
+                "area": 619,
+                "confidence": 0.9264363646507263
+            },
+            {
+                "type": "eng",
+                "area": 530,
+                "confidence": 0.8395287990570068
+            }
+        ],
+        "priority": 2
+    },
+    "v2#10__eng@3.png": {
+        "outlier": false,
+        "number_of_imprints": 3,
+        "details": [
+            {
+                "type": "eng",
+                "area": 384,
+                "confidence": 0.945735514163971
+            },
+            {
+                "type": "eng",
+                "area": 207,
+                "confidence": 0.8698350191116333
+            },
+            {
+                "type": "eng",
+                "area": 635,
+                "confidence": 0.8649049997329712
+            }
+        ],
+        "priority": 3
+    }
+}

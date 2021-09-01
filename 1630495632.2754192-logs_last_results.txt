@@ -1,0 +1,5 @@
+Last Epoch: 49
+Last Recall@1: 85.0224
+Last Recall@10: 88.8972
+Last Recall@100: 91.5797
+Last Recall@1000: 93.3681
