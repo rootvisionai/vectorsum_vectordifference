@@ -2,7 +2,7 @@
 *.png
 *.jpg
 *.jpeg
-./datasets
+datasets/*
 
 #models
 *.pth
