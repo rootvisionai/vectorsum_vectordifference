@@ -3,6 +3,7 @@
 *.jpg
 *.jpeg
 datasets/*
+.idea/
 
 #models
 *.pth
