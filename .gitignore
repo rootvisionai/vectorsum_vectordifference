@@ -5,6 +5,8 @@
 datasets/*
 .idea/
 
+*.txt
+
 #models
 *.pth
 *.pt
